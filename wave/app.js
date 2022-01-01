@@ -127,7 +127,7 @@ class Wave {
     ctx.lineTo(this.points[0].x, this.points[0].y);
 
     /* 색상 RED & 채우기 */
-    ctx.fillStyle = 'blue';
+    ctx.fillStyle = 'red';
     ctx.fill();
 
     /* 붓 끝내기 */
